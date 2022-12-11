@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "escpos": "^2.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "usb": "^1.6.2"
   }
 }
